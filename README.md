@@ -1,2 +1,0 @@
-# UPennCybersecurity
-UPenn Cybersecurity Bootcamp
